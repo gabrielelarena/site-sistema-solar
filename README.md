@@ -1,2 +1,2 @@
 # SistemaSolar
-🖥️ Site pessoal criado sem fins educacionais ou lucrativos.
+🖥️ Site pessoal criado sem fins educacionais, aplicando apenas conhecimentos aprendidos em aula.
