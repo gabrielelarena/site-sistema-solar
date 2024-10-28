@@ -6,3 +6,5 @@
 🎲 Feito com conhecimentos básicos de HTML, CSS. 
 
 🌌 Fotos retiradas do Pixabay & Pexels.
+
+🕛 Criado em 2023.
